@@ -1,4 +1,4 @@
-# Hand Sign Classification: CNN vs. ResNet50 Transfer Learning
+# Signs-digit-recognition-cnn
 
 Image classification of hand signs (classes 0–5) with TensorFlow/Keras. The project compares a small CNN trained from scratch against a pretrained ResNet50 used as a frozen feature extractor.
 
