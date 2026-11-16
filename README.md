@@ -95,7 +95,3 @@ You can also upload the notebook to Google Colab and run all cells. A GPU runtim
 ## Tech Stack
 
 Python · TensorFlow/Keras · scikit-learn · NumPy · Matplotlib · h5py
-
-## License
-
-Add your preferred license here (for example, MIT). Dataset usage is subject to the license on its Kaggle page.
